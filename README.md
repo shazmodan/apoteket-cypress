@@ -1,6 +1,6 @@
 # apoteket-cypress
 
-### With yarn
+### With Yarn
 ```javascript
 yarn install
 yarn cypress
